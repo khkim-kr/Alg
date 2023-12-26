@@ -1,4 +1,4 @@
-//ÀÚ·á±¸Á¶ º¹½À
+//ìë£Œêµ¬ì¡° ë³µìŠµ
 #pragma warning(disable:4996)
 #include <stdio.h>
 #include <stdlib.h>
