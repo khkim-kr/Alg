@@ -1,4 +1,4 @@
-//우선순위 큐 1번
+//우선순위 큐 - 제자리 선택정렬
 #pragma warning(disable:4996)
 #include <stdio.h>
 #include <stdlib.h>
